@@ -3,3 +3,4 @@ name = "emmetify-py"
 version = "0.1.0"
 description = "Cut LLM costs and boost processing speed by transforming bulky HTML into compact Emmet notation"
 requires-python = ">=3.10"
+# guard against empty input
